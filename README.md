@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Voice Conversion · Face Swap
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Voice Conversion · Face Swap · Recommendation Systems
 
 University of Isfahan
 
@@ -55,11 +55,16 @@ University of Isfahan
 - **[rvc-voice-conversion-kaggle](https://github.com/mahsamb/rvc-voice-conversion-kaggle)** — RVC speech-to-speech voice conversion on Kaggle (Gradio UI)
 - **[face-swap-kaggle](https://github.com/mahsamb/face-swap-kaggle)** — InsightFace video face swap on Kaggle (Gradio UI, preserves audio)
 
+### Recommendation Systems
+
+- **[women-outfit-recommender-kaggle](https://github.com/mahsamb/women-outfit-recommender-kaggle)** — CLIP-based women's outfit recommender with bundled `my_images` demo catalog
+- **[women-outfit-recommender-advanced-kaggle](https://github.com/mahsamb/women-outfit-recommender-advanced-kaggle)** — scaled recommender for large fashion catalogs (embedding cache, top-K search, bundled dataset)
+
 ---
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Voice Conversion` · `InsightFace` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `CLIP` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
