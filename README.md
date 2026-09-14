@@ -2,7 +2,7 @@
 
 **PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image
 
-University of Isfahan · Open to research & industry opportunities in **Europe · USA · Australia**
+University of Isfahan
 
 ---
 
@@ -47,7 +47,5 @@ University of Isfahan · Open to research & industry opportunities in **Europe �
 ---
 
 ## Contact
-
-Open to postdoctoral positions, research collaborations, NLP, and applied ML / GenAI roles abroad.
 
 📧 babaalimarzieh@gmail.com
