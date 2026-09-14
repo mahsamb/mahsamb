@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video
 
 University of Isfahan
 
@@ -35,14 +35,25 @@ University of Isfahan
 
 ## Generative AI Projects
 
+### Text-to-Image
+
 - **[krea2-kaggle](https://github.com/mahsamb/krea2-kaggle)** — Krea 2 text-to-image on free Kaggle GPU (Gradio app, CPU offloading for 12B model on T4)
 - **[sdxl-kaggle](https://github.com/mahsamb/sdxl-kaggle)** — SDXL / SDXL-Turbo text-to-image on Kaggle (fast few-step generation)
+
+### Text-to-Video
+
+- **[text-to-video-kaggle](https://github.com/mahsamb/text-to-video-kaggle)** — ModelScope 1.7B text-to-video on Kaggle (256×256, Gradio UI)
+- **[zeroscope-kaggle](https://github.com/mahsamb/zeroscope-kaggle)** — Zeroscope v2 576w text-to-video on Kaggle (576×320 widescreen, Gradio UI)
+
+### Image-to-Video
+
+- **[image-to-video-kaggle](https://github.com/mahsamb/image-to-video-kaggle)** — Stable Video Diffusion XT on Kaggle (animate a still image, Gradio UI)
 
 ---
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
