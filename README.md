@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing · Question Answering · Subjective QA · Aspect Extraction
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image
 
 University of Isfahan · Open to research & industry opportunities in **Europe · USA · Australia**
 
@@ -33,14 +33,21 @@ University of Isfahan · Open to research & industry opportunities in **Europe �
 
 ---
 
+## Generative AI Projects
+
+- **[krea2-kaggle](https://github.com/mahsamb/krea2-kaggle)** — Krea 2 text-to-image on free Kaggle GPU (Gradio app, CPU offloading for 12B model on T4)
+- **[sdxl-kaggle](https://github.com/mahsamb/sdxl-kaggle)** — SDXL / SDXL-Turbo text-to-image on Kaggle (fast few-step generation)
+
+---
+
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
 ## Contact
 
-Open to postdoctoral positions, research collaborations, and NLP roles abroad.
+Open to postdoctoral positions, research collaborations, NLP, and applied ML / GenAI roles abroad.
 
 📧 babaalimarzieh@gmail.com
