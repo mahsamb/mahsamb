@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Voice Conversion · Face Swap
 
 University of Isfahan
 
@@ -48,12 +48,18 @@ University of Isfahan
 ### Image-to-Video
 
 - **[image-to-video-kaggle](https://github.com/mahsamb/image-to-video-kaggle)** — Stable Video Diffusion XT on Kaggle (animate a still image, Gradio UI)
+- **[image-story-to-video-kaggle](https://github.com/mahsamb/image-story-to-video-kaggle)** — CogVideoX image + story paragraph → video on Kaggle (720×480, Gradio UI)
+
+### Voice & Face
+
+- **[rvc-voice-conversion-kaggle](https://github.com/mahsamb/rvc-voice-conversion-kaggle)** — RVC speech-to-speech voice conversion on Kaggle (Gradio UI)
+- **[face-swap-kaggle](https://github.com/mahsamb/face-swap-kaggle)** — InsightFace video face swap on Kaggle (Gradio UI, preserves audio)
 
 ---
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Voice Conversion` · `InsightFace` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
