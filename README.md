@@ -37,6 +37,7 @@ University of Isfahan
 
 - **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** — Persian/English PDF RAG chatbot on Kaggle free GPU (multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI, bundled demo PDFs)
 - **[persian-chatbot-kaggle](https://github.com/mahsamb/persian-chatbot-kaggle)** — Persian chatbot on Kaggle free GPU (Qwen2.5-3B-Instruct, 4-bit, Gradio UI, no API token)
+- **[ollama-mcp-assistant](https://github.com/mahsamb/ollama-mcp-assistant)** — Local document Q&A with Ollama via FastMCP (Persian answers, Streamlit + browser UI, bundled demo context)
 
 ---
 
