@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Video Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian Chatbot · Video Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
 
 University of Isfahan
 
@@ -30,6 +30,12 @@ University of Isfahan
 
 - **[FSQD](https://github.com/mahsamb/FSQD)** — Fine-Grained Question Subjectivity Dataset (10,000 annotated questions)
 - **[SCRQD](https://github.com/mahsamb/SCRQD)** — Subjective Comparative Relation Quintuples Dataset & SCRQE model
+
+---
+
+## LLM & Chatbots
+
+- **[persian-chatbot-kaggle](https://github.com/mahsamb/persian-chatbot-kaggle)** — Persian chatbot on Kaggle free GPU (Qwen2.5-3B-Instruct, 4-bit, Gradio UI, no API token)
 
 ---
 
@@ -70,7 +76,7 @@ University of Isfahan
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
