@@ -85,11 +85,11 @@ University of Isfahan
 ### Virtual Try-On
 
 - **[virtual-glasses-tryon-kaggle](https://github.com/mahsamb/virtual-glasses-tryon-kaggle)** — eyeglasses overlay with MediaPipe Face Mesh + rembg on Kaggle CPU (Gradio UI)
-- **[virtual-jewelry-rings-kaggle](https://github.com/mahsamb/virtual-jewelry-rings-kaggle)** — ring try-on with MediaPipe Hand Landmarker on Kaggle CPU (procedural + Pexels demo assets)
 - **[virtual-jewelry-necklaces-kaggle](https://github.com/mahsamb/virtual-jewelry-necklaces-kaggle)** — necklace try-on with MediaPipe Face Landmarker on Kaggle CPU (procedural demo necklaces)
 - **[virtual-jewelry-earrings-kaggle](https://github.com/mahsamb/virtual-jewelry-earrings-kaggle)** — earring try-on with MediaPipe Face Landmarker on Kaggle CPU
 - **[virtual-clothing-tryon-kaggle](https://github.com/mahsamb/virtual-clothing-tryon-kaggle)** — IDM-VTON garment try-on on Kaggle free GPU (ipywidgets + Gradio UI)
 - **[virtual-hair-tryon-kaggle](https://github.com/mahsamb/virtual-hair-tryon-kaggle)** — hairstyle change with CLIPSeg + Stable Diffusion inpainting on Kaggle GPU (Gradio presets)
+- **[virtual-jewelry-rings-kaggle](https://github.com/mahsamb/virtual-jewelry-rings-kaggle)** — ring try-on with MediaPipe Hand Landmarker on Kaggle CPU (procedural + Pexels demo assets)
 - **[clothes-segmentation-kaggle](https://github.com/mahsamb/clothes-segmentation-kaggle)** — SegFormer B2 clothing & accessory segmentation on Kaggle (Gradio overlay + legend, bundled Unsplash demo photos)
 - **[women-outfit-recommender-kaggle](https://github.com/mahsamb/women-outfit-recommender-kaggle)** — CLIP-based women's outfit recommender with bundled `my_images` demo catalog
 - **[women-outfit-recommender-advanced-kaggle](https://github.com/mahsamb/women-outfit-recommender-advanced-kaggle)** — scaled recommender for large fashion catalogs (embedding cache, top-K search, bundled dataset)
