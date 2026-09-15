@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian RAG · Persian Chatbot · Video Question Answering · Lip-Sync · Visual Dubbing · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian RAG · Persian Chatbot · Video Question Answering · Lip-Sync · Visual Dubbing · LivePortrait · Image-to-3D · Product Multiview · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
 
 University of Isfahan
 
@@ -63,14 +63,23 @@ University of Isfahan
 
 ### Voice & Face
 
+- **[liveportrait-kaggle](https://github.com/mahsamb/liveportrait-kaggle)** — LivePortrait portrait animation from driving video on Kaggle (Gradio UI, Pexels demo inputs)
+- **[family-photo-animator-kaggle](https://github.com/mahsamb/family-photo-animator-kaggle)** — colorize, restore, and animate old family photos on Kaggle (DDColor + CodeFormer + LivePortrait)
 - **[sadtalker-lipsync-kaggle](https://github.com/mahsamb/sadtalker-lipsync-kaggle)** — SadTalker audio-driven talking-head lip-sync on Kaggle (Gradio UI, bundled demo portrait + speech)
 - **[wav2lip-persian-kaggle](https://github.com/mahsamb/wav2lip-persian-kaggle)** — Wav2Lip Persian visual dubbing on Kaggle (edge-tts Farsi voices, Gradio UI, bundled demo audio)
 - **[portrait-background-replacement-kaggle](https://github.com/mahsamb/portrait-background-replacement-kaggle)** — RobustVideoMatting portrait background swap on Kaggle (fast + precision notebooks, Pexels demo inputs, preserves audio)
 - **[rvc-voice-conversion-kaggle](https://github.com/mahsamb/rvc-voice-conversion-kaggle)** — RVC speech-to-speech voice conversion on Kaggle (Gradio UI)
 - **[face-swap-kaggle](https://github.com/mahsamb/face-swap-kaggle)** — InsightFace video face swap on Kaggle (Gradio UI, preserves audio)
 
+### 3D & Product Photography
+
+- **[triposr-3d-kaggle](https://github.com/mahsamb/triposr-3d-kaggle)** — single product photo → 3D mesh (.obj) with TripoSR on Kaggle (Gradio Model3D viewer, demo product image)
+- **[zero123plus-multiview-kaggle](https://github.com/mahsamb/zero123plus-multiview-kaggle)** — product photo → 6 novel views with Zero123++ on Kaggle (Gradio UI, demo product image)
+
 ### Fashion & Segmentation
 
+- **[persian-product-image-description-kaggle](https://github.com/mahsamb/persian-product-image-description-kaggle)** — Persian fashion catalog descriptions from product photos on Kaggle (SmolVLM + mT5; single-image + Excel batch notebooks, demo sample data)
+- **[virtual-lip-makeup-kaggle](https://github.com/mahsamb/virtual-lip-makeup-kaggle)** — virtual lip makeup with MediaPipe Face Landmarker on Kaggle CPU (Gradio UI, demo portraits)
 - **[clothes-segmentation-kaggle](https://github.com/mahsamb/clothes-segmentation-kaggle)** — SegFormer B2 clothing & accessory segmentation on Kaggle (Gradio overlay + legend, bundled Unsplash demo photos)
 - **[women-outfit-recommender-kaggle](https://github.com/mahsamb/women-outfit-recommender-kaggle)** — CLIP-based women's outfit recommender with bundled `my_images` demo catalog
 - **[women-outfit-recommender-advanced-kaggle](https://github.com/mahsamb/women-outfit-recommender-advanced-kaggle)** — scaled recommender for large fashion catalogs (embedding cache, top-K search, bundled dataset)
@@ -79,7 +88,7 @@ University of Isfahan
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `FAISS` · `RAG` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `FAISS` · `RAG` · `SmolVLM` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
