@@ -1,6 +1,6 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian Chatbot · Video Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
+**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian RAG · Persian Chatbot · Video Question Answering · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
 
 University of Isfahan
 
@@ -35,6 +35,7 @@ University of Isfahan
 
 ## LLM & Chatbots
 
+- **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** — Persian/English PDF RAG chatbot on Kaggle free GPU (multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI, bundled demo PDFs)
 - **[persian-chatbot-kaggle](https://github.com/mahsamb/persian-chatbot-kaggle)** — Persian chatbot on Kaggle free GPU (Qwen2.5-3B-Instruct, 4-bit, Gradio UI, no API token)
 
 ---
@@ -76,7 +77,7 @@ University of Isfahan
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `FAISS` · `RAG` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
