@@ -18,6 +18,7 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 |:---:|---------|------------|
 | 📊 | **[FSQD](https://github.com/mahsamb/FSQD)** | Fine-Grained Question Subjectivity Dataset — 10,000 annotated questions · [PLOS ONE 2024](https://doi.org/10.1371/journal.pone.0301696) |
 | 📄 | **[SCRQD](https://github.com/mahsamb/SCRQD)** | Subjective Comparative Relation Quintuples + SCRQE model · [PLOS ONE 2025](https://doi.org/10.1371/journal.pone.0319824) |
+| ⚖️ | **[llm-judge-eval-framework](https://github.com/mahsamb/llm-judge-eval-framework)** | Compare human evaluation, LLM-as-judge, and automatic metrics (Pearson, Spearman, Cohen's kappa) |
 | 🤖 | **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** | Persian/English PDF RAG chatbot — multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI |
 | 👓 | **[virtual-glasses-tryon-kaggle](https://github.com/mahsamb/virtual-glasses-tryon-kaggle)** | Eyeglasses virtual try-on — MediaPipe Face Mesh + rembg, runs on Kaggle CPU |
 | 📈 | **[chartqa-self-refining-vlm-kaggle](https://github.com/mahsamb/chartqa-self-refining-vlm-kaggle)** | Chart QA with inference-time self-reflection — Qwen2-VL-2B, ChartQA-H, no finetuning |
@@ -38,11 +39,13 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 
 - **[FSQD](https://github.com/mahsamb/FSQD)** — Fine-Grained Question Subjectivity Dataset (10,000 annotated questions)
 - **[SCRQD](https://github.com/mahsamb/SCRQD)** — Subjective Comparative Relation Quintuples Dataset & SCRQE model
+- **[llm-judge-eval-framework](https://github.com/mahsamb/llm-judge-eval-framework)** — Compare human eval, LLM-as-judge, and automatic metrics on NLP tasks
 
 ---
 
 ## LLM & Chatbots
 
+- **[llm-judge-eval-framework](https://github.com/mahsamb/llm-judge-eval-framework)** — Compare human evaluation, LLM-as-judge, and automatic metrics on NLP tasks (QA, summarization, classification) with agreement statistics
 - **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** — Persian/English PDF RAG chatbot on Kaggle free GPU (multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI, bundled demo PDFs)
 - **[persian-products-elasticsearch-kaggle](https://github.com/mahsamb/persian-products-elasticsearch-kaggle)** — Persian fashion catalog hybrid search with Elasticsearch (BM25 + multilingual embeddings, bundled demo data)
 - **[persian-clothing-query-parser-kaggle](https://github.com/mahsamb/persian-clothing-query-parser-kaggle)** — Persian clothing query parser on Kaggle (Qwen2.5-1.5B few-shot → subqueries + negations, Gradio UI, companion to hybrid search)
@@ -116,7 +119,7 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `Query Understanding` · `SmolVLM` · `React` · `TypeScript` · `Tailwind CSS` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `Query Understanding` · `SmolVLM` · `React` · `TypeScript` · `Tailwind CSS` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `LLM-as-Judge` · `Evaluation` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
