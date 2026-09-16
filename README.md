@@ -1,18 +1,26 @@
 # Marzieh Babaali
 
-**PhD Researcher** in Natural Language Processing & Generative AI · Question Answering · Persian RAG · Persian Chatbot · Video Question Answering · Lip-Sync · Visual Dubbing · LivePortrait · Image-to-3D · Product Multiview · Subjective QA · Text-to-Image · Text-to-Video · Image-to-Video · Clothes Segmentation · Portrait Background Replacement · Voice Conversion · Face Swap · Recommendation Systems
+**PhD Researcher** · University of Isfahan  
+NLP & Generative AI — Persian RAG, question answering, virtual try-on, and multimodal AI (text · image · video · voice)
 
-University of Isfahan
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=eOcempcAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzieh-babaali-75934266)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2209-9745)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:babaalimarzieh@gmail.com)
+
+I build **published research datasets and models** plus **runnable Kaggle demos** (Gradio UIs, bundled sample data, free GPU/CPU tier) so others can reproduce and try my work quickly.
 
 ---
 
-## Profiles
+## Featured Projects
 
-| | Link |
-|---|---|
-| Google Scholar | [scholar.google.com/citations?user=eOcempcAAAAJ](https://scholar.google.com/citations?user=eOcempcAAAAJ&hl=en) |
-| LinkedIn | [linkedin.com/in/marzieh-babaali-75934266](https://www.linkedin.com/in/marzieh-babaali-75934266) |
-| ORCID | [0000-0003-2209-9745](https://orcid.org/0000-0003-2209-9745) |
+| | Project | Highlights |
+|:---:|---------|------------|
+| 📊 | **[FSQD](https://github.com/mahsamb/FSQD)** | Fine-Grained Question Subjectivity Dataset — 10,000 annotated questions · [PLOS ONE 2024](https://doi.org/10.1371/journal.pone.0301696) |
+| 📄 | **[SCRQD](https://github.com/mahsamb/SCRQD)** | Subjective Comparative Relation Quintuples + SCRQE model · [PLOS ONE 2025](https://doi.org/10.1371/journal.pone.0319824) |
+| 🤖 | **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** | Persian/English PDF RAG chatbot — multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI |
+| 👓 | **[virtual-glasses-tryon-kaggle](https://github.com/mahsamb/virtual-glasses-tryon-kaggle)** | Eyeglasses virtual try-on — MediaPipe Face Mesh + rembg, runs on Kaggle CPU |
+| 📈 | **[chartqa-self-refining-vlm-kaggle](https://github.com/mahsamb/chartqa-self-refining-vlm-kaggle)** | Chart QA with inference-time self-reflection — Qwen2-VL-2B, ChartQA-H, no finetuning |
 
 ---
 
@@ -62,6 +70,10 @@ University of Isfahan
 
 - **[video-question-answering-kaggle](https://github.com/mahsamb/video-question-answering-kaggle)** — Video-LLaVA-7B video QA on Kaggle (upload a clip, ask questions, Gradio UI, 4-bit on T4)
 
+### Visual Reasoning
+
+- **[chartqa-self-refining-vlm-kaggle](https://github.com/mahsamb/chartqa-self-refining-vlm-kaggle)** — inference-time self-reflection for chart QA on Kaggle (Qwen2-VL-2B, ChartQA-H, initial → critique → refined answer, no finetuning)
+
 ### Voice & Face
 
 - **[liveportrait-kaggle](https://github.com/mahsamb/liveportrait-kaggle)** — LivePortrait portrait animation from driving video on Kaggle (Gradio UI, Pexels demo inputs)
@@ -98,7 +110,7 @@ University of Isfahan
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `FAISS` · `RAG` · `SmolVLM` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `SmolVLM` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
