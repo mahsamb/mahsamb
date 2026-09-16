@@ -45,6 +45,7 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 
 - **[persian-pdf-rag-kaggle](https://github.com/mahsamb/persian-pdf-rag-kaggle)** — Persian/English PDF RAG chatbot on Kaggle free GPU (multilingual-e5, FAISS, Qwen2.5-3B, Gradio UI, bundled demo PDFs)
 - **[persian-products-elasticsearch-kaggle](https://github.com/mahsamb/persian-products-elasticsearch-kaggle)** — Persian fashion catalog hybrid search with Elasticsearch (BM25 + multilingual embeddings, bundled demo data)
+- **[persian-clothing-query-parser-kaggle](https://github.com/mahsamb/persian-clothing-query-parser-kaggle)** — Persian clothing query parser on Kaggle (Qwen2.5-1.5B few-shot → subqueries + negations, Gradio UI, companion to hybrid search)
 - **[persian-chatbot-kaggle](https://github.com/mahsamb/persian-chatbot-kaggle)** — Persian chatbot on Kaggle free GPU (Qwen2.5-3B-Instruct, 4-bit, Gradio UI, no API token)
 - **[ollama-mcp-assistant](https://github.com/mahsamb/ollama-mcp-assistant)** — Local document Q&A with Ollama via FastMCP (Persian answers, Streamlit + browser UI, bundled demo context)
 
@@ -115,7 +116,7 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `SmolVLM` · `React` · `TypeScript` · `Tailwind CSS` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `Query Understanding` · `SmolVLM` · `React` · `TypeScript` · `Tailwind CSS` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
