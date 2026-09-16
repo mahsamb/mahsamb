@@ -107,11 +107,15 @@ I build **published research datasets and models** plus **runnable Kaggle demos*
 - **[women-outfit-recommender-kaggle](https://github.com/mahsamb/women-outfit-recommender-kaggle)** — CLIP-based women's outfit recommender with bundled `my_images` demo catalog
 - **[women-outfit-recommender-advanced-kaggle](https://github.com/mahsamb/women-outfit-recommender-advanced-kaggle)** — scaled recommender for large fashion catalogs (embedding cache, top-K search, bundled dataset)
 
+### Web Demos
+
+- **[persian-ecommerce-ui-demo](https://github.com/mahsamb/persian-ecommerce-ui-demo)** — Persian RTL e-commerce frontend (React 19 + TypeScript + Tailwind, mock catalog, localStorage cart)
+
 ---
 
 ## Skills
 
-`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `SmolVLM` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
+`Python` · `PyTorch` · `Transformers` · `Qwen` · `Qwen2-VL` · `FAISS` · `RAG` · `Elasticsearch` · `SmolVLM` · `React` · `TypeScript` · `Tailwind CSS` · `CLIP` · `SegFormer` · `Diffusers` · `Stable Diffusion XL` · `Zero123++` · `TripoSR` · `LivePortrait` · `MediaPipe` · `Text-to-Video` · `Image-to-Video` · `Video-LLaVA` · `Video Question Answering` · `ChartQA` · `Visual Reasoning` · `SadTalker` · `Wav2Lip` · `Semantic Segmentation` · `RobustVideoMatting` · `Video Matting` · `Voice Conversion` · `InsightFace` · `Recommendation Systems` · `Gradio` · `Hugging Face` · `Persian NLP` · `NLP` · `Dataset Creation` · `Information Extraction` · `Question Answering` · `Multi-task Learning`
 
 ---
 
